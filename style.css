@@ -1,0 +1,133 @@
+body {
+    background-color: #ffffe0;
+    margin: auto;
+}
+.comment {
+    margin-top:12px;
+    margin-left: 24px;
+}
+#ball1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+}
+#ball2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+}
+
+#ball3 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+}
+
+#ball4 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+}
+
+#ball5 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+}
+
+#ball6 {
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+}
+
+#ball7 {
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+}
+
+#ball8 {
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+}
+
+#ball9 {
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+   
+}
+
+#ball10 {
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: 1px black solid;
+   
+}
+#ball0 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50px;
+    margin-top: 8px;
+    margin-left: 8px;
+   
+   
+}
+
+.marginConteiner {
+    display: flex;   
+}
+
+
+.skyblue {   
+    display: flex;   
+   
+}
+
+.red {
+     display: flex;
+   
+}
